@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Controls 1.2.md",
+                "file": "Chapter  2/Part5/Hardening Techniques 2.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Controls 1.2"
-            }
-          },
-          {
-            "id": "8197f74855ee6fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The CIA Triad 1.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The CIA Triad 1.2"
-            }
-          },
-          {
-            "id": "5f8bb3f23a145171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1/Certificates 1.4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Certificates 1.4"
+              "title": "Hardening Techniques 2.5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a0fcbc4574316bca",
@@ -198,34 +168,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f8bb3f23a145171",
+  "active": "fffce5ab212f8cd8",
   "lastOpenFiles": [
-    "Chapter 1/Hashing and Digital Signatures.md",
-    "Chapter 1/Certificates 1.4.md",
-    "Chapter 1/Gap Analysis 1.2.md",
-    "Chapter 1/Encryption Technologies 1.4.md",
-    "Chapter 1/Encrypting Data 1.4.md",
-    "Chapter 1/Deception and Disruption 1.2.md",
-    "Chapter 1/Authentication, Authorization, and Accounting 1.2.md",
-    "Chapter 1/Change Management 1.3.md",
-    "Chapter 1/Key Exchange 1.4.md",
-    "Chapter 1/Non-Repudiation 1.2.md",
-    "Chapter 1/Obfuscation 1.4.md",
-    "Chapter 1/Physical Security 1.2.md",
-    "Chapter 1/Zero Trust 1.2.md",
-    "Chapter 1/The CIA Triad 1.2.md",
-    "Chapter 1/Technical Change Management 1.3.md",
-    "Chapter 1/Security Controls 1.2.md",
-    "Chapter 1/Public Key Infrastructure 1.4.md",
-    "Untitled.md",
-    "Chapter 1/README.md",
-    "Chapter 1",
-    "Authentication, Authorization, and Accounting 1.2.md",
-    "Gap Analysis 1.2.md",
-    "Deception and Disruption 1.2.md",
-    "Physical Security 1.2.md",
-    "Zero Trust 1.2.md",
-    "Non-Repudiation 1.2.md",
-    "The CIA Triad 1.2.md"
+    "Chapter  2/Part5/Mitigation Techniques 2.5.md",
+    "Chapter  2/Part5/Segmentation and Access Control 2.5.md",
+    "Chapter  2/Part5/Hardening Techniques 2.5.md",
+    "Chapter  2/Wireless Attacks 2.4.md",
+    "Chapter  2/part4/Wireless Attacks 2.4.md",
+    "Chapter  2/part4/Viruses and Worms 2.4.md",
+    "Chapter  2/part4/Spyware and Bloatware 2.4.md",
+    "Chapter  2/part4/Replay Attacks 2.4.md",
+    "Chapter  2/part4/Password Attacks 2.4.md",
+    "Chapter  2/part4/Other Malware Types 2.4.md",
+    "Chapter  2/part4/On-Path Attacks 2.4.md",
+    "Chapter  2/part4/Malicious Code 2.4.md",
+    "Chapter  2/part4/Indicators of Compromise (IOC) 2.4.md",
+    "Chapter  2/part4/DNS Attacks 2.4.md",
+    "Chapter  2/part4/Denial of Service 2.4.md",
+    "Chapter  2/part4/Cryptographic Attacks 2.4.md",
+    "Chapter  2/part4/Application Attacks 2.4.md",
+    "Chapter  2/part4",
+    "Chapter  2/Mobile Devices Vulnerabilities 2.3.md",
+    "Chapter  2/Part3/Zero-Day Vulnerabilities 2.3.md",
+    "Chapter  2/Part3/Virtualization Vulnerabilities 2.3.md",
+    "Chapter  2/Part3/Supply Chain Vulnerabilities 2.3.md",
+    "Chapter  2/Part3/SQL Injection 2.3.md",
+    "Chapter  2/Part3/Race Conditions 2.3.md",
+    "Chapter  2/Part3/Operating System Vulnerabilities 2.3.md",
+    "Chapter  2/Part3/Mobile Devices Vulnerabilities 2.3.md",
+    "Chapter  2/Part3/Misconfiguration Vulnerabilities 2.3.md",
+    "Chapter  2/Part3",
+    "Chapter  2/Part1",
+    "Chapter  2/Part2",
+    "Chapter 1/Part4",
+    "Chapter 1/Part3",
+    "Chapter 1/Part2",
+    "Chapter 1"
   ]
 }
