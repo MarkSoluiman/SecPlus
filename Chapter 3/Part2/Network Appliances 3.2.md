@@ -3,11 +3,11 @@
 
 This is a device that is connected to the private network and also can be accessed from outside. The jump server must be hardened by security procedures due to its connection to the inner network. 
 
-Connecting to the jump server usually requires two-step process. The external client or user will first connect to the jump server and from the jump server they will connect to the internal network using SSH or VPN.
+Connecting to the jump server usually requires two-step process. The external client or user will first connect to the jump server and from the jump server they will connect to the internal network using SSH or VPN. 
 
 ## Proxies
 
-A proxy is designed to sit in the middle of a conversation between of two devices and make request on behalf of one of these users. 
+A proxy is designed to sit in the middle of a conversation between of two devices and make request on behalf of these devices. 
 
 A proxy will usually sit between an inner network and the outer internet. A user will need to send request first to the proxy before the proxy passing this request to the outer internet. The same will happen but backwards when the user receives a response back from the internet. 
 

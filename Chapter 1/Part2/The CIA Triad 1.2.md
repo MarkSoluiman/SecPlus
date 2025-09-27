@@ -31,7 +31,7 @@ In **confidentiality**, certain information should only be know to certain peopl
 In **Integrity**, data is stored and transferred as intended. Any modification to the data would be identified. We can do that by:
 ### Hashing
 
-- Map data of an arbitrary length to data of a fixed length.
+- Map data of an arbitrary length to data of a fixed length. The smallest change in the original message or data will change the hash.
 ### Digital Signatures
 
 - Mathematical scheme to verify the integrity of data.

@@ -32,7 +32,6 @@
 ### Preventive
 
 - Block access to a resource.
-- You shall not pass.
 
 ### Prevent Access
 

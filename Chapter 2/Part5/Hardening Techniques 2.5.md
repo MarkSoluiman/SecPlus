@@ -11,11 +11,10 @@ Limit network access by adding a range of IP addresses that can't access the dev
 
 Always monitor the system and secure it with anti-virus/anti-malware.
 
-## Endpoint Detection and Response (EDR) 2.5
-
+## Endpoint Detection and Response (EDR) 
 They detect a threat by signatures of malware stored in their DB. They also perform behavioral analysis using machine learning and process monitoring to identify new suspicious processes that can appear. 
 
-EDRs can also preform root cause analysis to identify how the malware entered the system.
+EDRs can also perform root cause analysis to identify how the malware entered the system.
 
 EDRs can finally make a decision by isolating the system, quarantine the threat, rollback to a previous config.
 
@@ -25,10 +24,10 @@ This is a software-firewall that allows or disallows incoming or outgoing applic
 
 ## Finding Intrusions 
 
-**Host-Based Intrusion Prevention System (HIPS)** look for known attack types on the network. They are often built into the EDR or anti-malware software to watch all of the traffic that is inbound to the system to look for a known vulnerability. HIPS can also secure applications and OS configs. 
+**Host-Based Intrusion Prevention Systems (HIPS)** look for known attack types on the network. They are often built into the EDR or anti-malware software to watch all of the traffic that is inbound to the system to look for a known vulnerability. HIPS can also secure applications and OS configs. 
 
-HIPS identify attacks and vulnerabilits by signatures, heursitics, and behavioral. 
-It can also identify buffer overflow, registry updates, writing files to the Windows folder when they happen.
+HIPS identify attacks and vulnerabilities by signatures, heuristics, and behavioral. 
+They can also identify buffer overflow, registry updates, writing files to the Windows folder when they happen.
 
 ## Open Ports and Services
 

@@ -3,7 +3,7 @@
 
 This is another form of on-path attack. The victim will send their credentials to the server that they want to authenticate to. However, the attacker will get this request as well. The attacker will then re-send this request posing as the victim having access to the server.
 
-This attack is also called Pass the has, since the attacker will get the password hashed. 
+This attack is also called Pass the hash, since the attacker will get the password hashed. 
 
 To avoid this attack, the user should use salt or encryption. Using a session ID with the password hash will create a unique authentication hash each time. 
 

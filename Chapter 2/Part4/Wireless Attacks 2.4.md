@@ -1,15 +1,15 @@
 
 ---
 
-## 802.11 Management Frames 2.4
+## 802.11 Management Frames 
 
-These frames are important for the wireless connection to work. They determine how to find access points, manage Quality of Service  (QoS), associate/disassociate with an access point, etc.
+These frames are important for the wireless connection to work. They determine how to find access points, manage **Quality of Service  (QoS)**, associate/disassociate with an access point, etc.
 
 Original wireless standards didn't add protection for management frames. The frames were sent in clear, no authentication or validation. 
 
 This protocol is vulnerable to deauthentication attacks where the attacker can send deauth packets to the victim's device to disconnect the device from the wireless network.
 
-This vulnerability has been patched in the 802.11ac protocol. Now, the disassociate, deauthenticate, channel switch announcements, etc are not encrypted. However, beacons, probes, authentication, and association are not encrypted. 
+This vulnerability has been patched in the 802.11ac protocol. Now, the disassociate, deauthenticate, channel switch announcements, etc are encrypted. However, beacons, probes, authentication, and association are not encrypted. 
 
 ## Radio Frequency (RF) Jamming
 

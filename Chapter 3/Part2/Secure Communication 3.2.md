@@ -26,13 +26,13 @@ Can be run from a browser or from a (usually light) VPN client.
 
 Some organizations will build an encrypted tunnel between remote locations so everyone at a remote site will be able to communicate back to the corporate network over an encrypted channel that is provided automatically through firewalls acting as VPN concentrators.
 
-## SD-WAN
+## SDN-WAN
 
 **Software Defined Networking in a Wide Area Network**. This was specifically designed to address some of the challenges we have with connecting to cloud-based applications.
 
 Before the cloud, we used to have every service in one place that has all of the servers hosting the services and the other remote sites have to connect remotely to these servers. 
 
-But now, we can build out dynamic networks that are able to communicate to our web-based applications hosted on the cloud by using SD-WAN.
+But now, we can build out dynamic networks that are able to communicate to our web-based applications hosted on the cloud by using SDN-WAN.
 
 ## Secure Access Service Edge (SASE)
 

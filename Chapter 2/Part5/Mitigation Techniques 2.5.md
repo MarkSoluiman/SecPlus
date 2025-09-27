@@ -3,7 +3,7 @@
 
 ## Patching
 
-Always run the most recent patches from the OS/ application provider to mitigate vulnerabilities and exploits. 
+Always run the most recent patches from the OS/application provider to mitigate vulnerabilities and exploits. 
 
 ## Encryption
 

@@ -9,7 +9,7 @@ IPS is different than an intrusion detection system (IDS). IPS can detect and pr
 
 ## Failure modes
 
-Eventually, security devices will fail. This such a device was inline, one of these scenarios will happen to the network traffic:
+Eventually, security devices will fail. If such a device was inline, one of these scenarios will happen to the network traffic:
 - **Fail-open**: when a system fails, data continues to flow.
 - **Fail-closed**: when a system fails, data doesn't flow.
 

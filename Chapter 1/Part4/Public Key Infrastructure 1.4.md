@@ -16,7 +16,6 @@ This way has two or more mathematically related keys. The public key is used to 
 
 Bob is sending a message to Alice. Bob uses the public key of Alice to encrypt the message. Alice will use her private key to decrypt the message that Bob has sent.
 
----
 
 ## Key Escrow
 

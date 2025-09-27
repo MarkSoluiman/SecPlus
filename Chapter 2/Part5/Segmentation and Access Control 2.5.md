@@ -5,7 +5,7 @@
 
 This part of segmentation. These lists include groupings of categories like Source IP, Destination IP, port number, time of day, application, etc.
 
-These lists also determine access to network devices. They can limit access by IP address or other identifier. Prevent regular user /non-admin access.
+These lists also determine access to network devices. They can limit access by IP address or other identifier. Prevent regular user/non-admin access.
 
 Many operating systems use ACLs to provide access to files.
 

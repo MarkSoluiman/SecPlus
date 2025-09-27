@@ -15,7 +15,7 @@ Hashes are also used when it comes to storing passwords.
 
 ## Salt
 
-Salt is random data added to a password when hashing. Every users gets their own random salt. That means if multiple users provided the same password, they will end up with different hashes for their passwords.
+Salt is random data added to a password when hashing. Every user gets their own random salt. That means if multiple users provided the same password, they will end up with different hashes for their passwords.
 
 Rainbow tables don't work with salted hashes.
 

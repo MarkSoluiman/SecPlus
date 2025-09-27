@@ -15,9 +15,9 @@ For example, address label printers need to be upgraded. Shipping and Receiving 
 
 ## Stakeholders
 
-Stakeholders are the individuals or entities who the are impacted by the change.
+Stakeholders are the individuals or entities who are impacted by the change.
 
-For example, upgrade software used for shipping labels will affect the Shipping / Receiving, accounting reports, product delivery time frames, and revenue recognition which must be known to the CEO of the company.
+For example, upgrading software used for shipping labels will affect the Shipping / Receiving, accounting reports, product delivery time frames, and revenue recognition which must be known to the CEO of the company.
 
 ## Impact Analysis
 

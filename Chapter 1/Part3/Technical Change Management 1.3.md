@@ -40,7 +40,7 @@ It can be challenging to keep up with changes. Documentation can be outdated ver
 
 Updating diagrams comes when modifications to network configurations happen.
 
-Updating policies/procedures comes when a adding new systems happen.
+Updating policies/procedures comes when adding new systems happen.
  
 ## Version Control 
 

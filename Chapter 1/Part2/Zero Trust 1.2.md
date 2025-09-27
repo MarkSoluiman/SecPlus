@@ -44,8 +44,8 @@ Some zones are implicitly trusted. For example, **trusted** or **internal** zone
 
 ## Policy Enforcement Point 
 
-A gate keep must be standing as a security point between the system or the subject (end users, applications, devices). and the resources. Here, comes the use of policy enforcement point (PEP).
+A gate keep must be standing as a security point between the system or the subject (end users, applications, devices). and the resources. Here, comes the use of **Policy Enforcement Point (PEP).**
 
-After that comes the **Policy Decision Point** (PDP) which contains **Policy Engine** and **Policy Administrator**. The policy engine evaluates each access decision based on policy and other information sources: Grant, deny, or revoke.
+After that comes the **Policy Decision Point (PDP)** which contains **Policy Engine** and **Policy Administrator**. The policy engine evaluates each access decision based on policy and other information sources: Grant, deny, or revoke.
 
 The policy administrator then communicates with the policy enforcement point and provides it with the decision coming from the policy decision point. Access tokens may be created by the policy administrator to give back to the policy enforcement point.

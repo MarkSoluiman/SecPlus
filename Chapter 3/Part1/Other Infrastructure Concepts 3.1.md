@@ -3,7 +3,7 @@
 
 ## On-Premises Security
 
-The user have full control of the servers in-house. The on-site It team can manage security better. However, a local it team can be expensive and difficult to staff. 
+The user have full control of the servers in-house. The on-site IT team can manage security better. However, a local IT team can be expensive and difficult to staff. 
 
 System checks can happen at any time. However, security changes can take time to install new equipment, configurations. 
 

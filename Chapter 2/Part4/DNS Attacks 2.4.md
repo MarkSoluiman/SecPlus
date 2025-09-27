@@ -3,7 +3,7 @@
 
 ## DNS Spoofing / Poisoning 
 
-DNS poising happens when an attacker changes the IP address that is linked to a website a user visits to his/her IP address. This is done by the attacker first gaining access to the DNS server and modifying the IP address there. The user will instead visit the attacker's IP address instead of the actual website  IP address. 
+DNS poisoning happens when an attacker changes the IP address that is linked to a website a user visits to his/her IP address. This is done by the attacker first gaining access to the DNS server and modifying the IP address there. The user will instead visit the attacker's IP address instead of the actual website  IP address. 
 
 ## Domain Hijacking
 

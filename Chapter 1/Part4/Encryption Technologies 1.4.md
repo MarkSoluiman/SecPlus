@@ -13,7 +13,7 @@ TPM is also password protected so it's not prone to dictionary attacks.
 
 ## Hardware Security Module (HSM)
 
-It's used in large environments. It's used as clusters of devices and should be used with Uninterruptible Power Supply (UPS).  They securely store thousands of cryptographic keys. 
+It's used in large environments. It's used as clusters of devices and should be used with **Uninterruptible Power Supply (UPS)**.  They securely store thousands of cryptographic keys. 
 They are high-end cryptographic hardware like a plugin card or separate hardware device.
 
 They also can be equipped with cryptographic accelerators to speed up the process of encrypting and decrypting.

@@ -6,7 +6,7 @@ This is also called Man-In-The-Middle attack.
 The attacker redirects the traffic to them then passes it on to the destination. 
 The victim never knows their traffic was redirected.
 
-Another type of on-path attack is ARP poisoning. The attacker needs to be in the same network. 
+Another type of on-path attack is **Address Resolution Protocol (ARP)** poisoning. The attacker needs to be in the same network. 
 
 ## Scenario (ARP Poisoning)
 

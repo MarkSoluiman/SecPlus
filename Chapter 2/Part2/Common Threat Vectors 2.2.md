@@ -3,7 +3,7 @@
 
 ## Message-Based Vectors
 
-One of the biggest and most successful threat vectors. Everyone has as least one of messaging systems.
+One of the biggest and most successful threat vectors. Everyone has at least one of messaging systems.
 
 Attackers can target emails addresses by malicious links in an email or a link to a malicious site.
 
@@ -30,7 +30,7 @@ Attackers might use Spam over IP to constantly change their phone number to avoi
 
 ## Removable Device Vectors
 
-Malicious software can be installed on USB drive and will ran automatically once this USB stick is connected to a device. This attack can target air gapped network or devices (not connected to the outer network). 
+Malicious software can be installed on USB drive and will run automatically once this USB stick is connected to a device. This attack can target air gapped network or devices (not connected to the outer network). 
 
 USB drives can act as a keyboard. Attackers can have remote access to a device and type malicious code.
 
@@ -42,7 +42,7 @@ Devices don't always have to have installed vulnerable softwares to be infected.
 
 ## Unsupported Systems Vectors
 
-Outdated Operating systems or softwares might act as a risk. These operating systems and softwares are not getting any further support and patches from the manufacturer. It is important to keen an inventory and records up to date. 
+Outdated Operating systems or softwares might act as a risk. These operating systems and softwares are not getting any further support and patches from the manufacturer. It is important to keep an inventory and records up to date. 
 
 ## Unsecure Network Vectors
 
